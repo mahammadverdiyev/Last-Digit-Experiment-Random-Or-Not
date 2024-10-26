@@ -1,4 +1,4 @@
-# Last Digit Experiment: Are Last Digits of Sums and Products Random?
+# Last Digit Experiment: Are last digits of sums and products random?
 
 
 Have you ever thought if there is a pattern in the last digits when you multiply or add numbers? This project takes a look at just that!
@@ -13,7 +13,7 @@ Have you ever thought if there is a pattern in the last digits when you multiply
 
 Are all last digits equally likely to appear when adding or multiplying random numbers? Or do some digits appear more often?
 
-### Adding Two Numbers
+### Adding two numbers
 
 When you add two random numbers, are all last digits (0-9) equally likely?
 
@@ -23,7 +23,7 @@ Example:
 
 Does each last digit show up about the same amount?
 
-### Multiplying Two Numbers
+### Multiplying two numbers
 
 When you multiply two random numbers, is each last digit equally likely?
 
@@ -33,6 +33,6 @@ Example:
 
 Do all digits appear equally?
 
-## Why Bother with Last Digits?
+## Why bother with Last digits?
 
 Focusing on last digits can reveal hidden patterns in math, which are useful for random number generation and understanding number properties.
